@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(48, 48, 88);
+    color: antiquewhite;
+}
+h2 {color: yellow}
+.texto-inglês {font-style: italic;}
+#nome-usuário {font-weight: bold;}

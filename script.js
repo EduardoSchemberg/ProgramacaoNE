@@ -11,10 +11,10 @@ console.log(linguagens[1])
 const item = document.querySelector("#lista");
 item.textContent = linguagens[0];
 let aluno1 = {
-    nome: "Gabriel",
-    idade: 13,
-    anoLetivo: "2ªsérie"
-    matériasFavoritas: ["Geogrfia", "Programação", "Arte"]
+    nome: "Gabriel";
+    idade: 13;
+    anoLetivo: "2ªsérie";
+    matériasFavoritas: ["Geografia", "Programação", "Arte"]
 }
 const objeto = document.querySelector("#aluno");
 objeto.textContent = aluno1.nome;

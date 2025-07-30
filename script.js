@@ -10,3 +10,9 @@ console.log(linguagens[1])
 
 const item = document.querySelector("#lista");
 item.textContent = linguagens[0];
+let aluno1 = {
+    nome: "Gabriel",
+    idade: 13,
+    anoLetivo: "2ªsérie"
+    matériasFavoritas: ["Geogrfia", "Programação", "Arte"]
+}
